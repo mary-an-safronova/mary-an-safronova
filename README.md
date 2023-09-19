@@ -49,45 +49,73 @@
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
-<table align="center" cellspacing="0" cellpadding="0" border="0">
+<table align="center">
     <tr>
         <td>
-            <p style="margin: 20px 0; font-size: 20px; font-weight: 600; color: #24d7ff">🏆 GitHub Profile Trophy</p>
-<p align="center" style="margin: 20px">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3)
-
-</p>
+            <!-- GitHub Profile Trophy -->
+            <p align="center">
+                <picture>
+                    <source
+                        srcset="https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3" />
+                </picture>
+            </p>
         </td>
         <td>
-            <p style="margin: 0; font-size: 20px; font-weight: 600; color: #24d7ff">🔥 GitHub Streak Stats</p>
-<p align="center" style="margin: 20px">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-</p>
+            <!-- GitHub Streak Stats -->
+            <p align="center">
+                <picture>
+                    <source
+                        srcset="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true" />
+                </picture>
+            </p>
         </td>
     </tr>
     <tr>
         <td>
-<p align="center" style="margin: 20px">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark)](https://github.com/mary-an-safronova/github-readme-stats)
-
-</p>
+            <!-- GitHub Stats -->
+            <p align="center">
+                <picture>
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true&theme=dark&bg_color=transparent&title_color=black&hide_border=true&rank_icon=percentile&show_icons=true"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true" />
+                </picture>
+            </p>
         </td>
         <td>
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true&theme=dark"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img src="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true" />
-            </picture>
+            <!-- Most Used Languages -->
+            <p align="center">
+                <picture>
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark&bg_color=transparent&title_color=black&hide_border=true"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark" />
+                </picture>
+            </p>
         </td>
     </tr>
 </table>
