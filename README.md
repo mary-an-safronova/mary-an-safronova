@@ -68,4 +68,26 @@
 </p>
         </td>
     </tr>
+    <tr>
+        <td>
+<p align="center" style="margin: 20px">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark)](https://github.com/mary-an-safronova/github-readme-stats)
+
+</p>
+        </td>
+        <td>
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true" />
+            </picture>
+        </td>
+    </tr>
 </table>
