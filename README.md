@@ -49,9 +49,23 @@
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
-<p style="margin: 20px 0; font-size: 20px; font-weight: 600; color: #24d7ff">GitHub Profile Trophy</p>
-<p align="center" style="margin: 20px 0; font-siz: 20px; width: 100%">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td>
+            <p style="margin: 20px 0; font-size: 20px; font-weight: 600; color: #24d7ff">🏆 GitHub Profile Trophy</p>
+<p align="center" style="margin: 20px">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&column=-1)](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&column=-1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3)
 
 </p>
+        </td>
+        <td>
+            <p style="margin: 0; font-size: 20px; font-weight: 600; color: #24d7ff">🔥 GitHub Streak Stats</p>
+<p align="center" style="margin: 20px">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</p>
+        </td>
+    </tr>
+</table>
