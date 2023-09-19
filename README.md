@@ -49,7 +49,7 @@
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
-<table align="center">
+<table align="center"  cellspacing="0" cellpadding="0" border="0">
     <tr>
         <td>
             <!-- GitHub Profile Trophy -->
@@ -85,7 +85,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="background-color: transparent">
             <!-- GitHub Stats -->
             <p align="center">
                 <picture>
@@ -101,7 +101,7 @@
                 </picture>
             </p>
         </td>
-        <td>
+        <td style="background-color: transparent">
             <!-- Most Used Languages -->
             <p align="center">
                 <picture>
