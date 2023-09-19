@@ -29,24 +29,31 @@
                 <img src="./images/yandex-mail.jpeg" style="width: 77px">
         </a>
     </p>
+    <!--  -->
+    <p align="center" style="margin: 20px">
+        <a href="https://www.codewars.com/users/mary-an-safronova" target="blank" 
+            style="color: white; margin: 0">
+                <img src="https://www.codewars.com/users/mary-an-safronova/badges/small" style="width: 77px">
+        </a>
+    </p>
     <!-- Стек -->
     <p align="center" style="margin: 20px">
-        <img src="./images/html5.png" style="width: 40px; margin-right: 5px" title="HTML5" alt="HTML5">&nbsp;
-        <img src="./images/css.png" style="width: 40px; margin-right: 5px" title="CSS" alt="CSS">&nbsp;
-        <img src="./images/js.png" style="width: 40px; margin-right: 5px" title="JavaScript" alt="JavaScript">&nbsp;
-        <img src="./images/typeScript.png" style="width: 40px; margin-right: 5px" title="TypeScript" alt="TypeScript">&nbsp;
-        <img src="./images/react.png" style="width: 40px; margin-right: 5px" title="React" alt="React">&nbsp;
-        <img src="./images/redux.png" style="width: 40px; margin-right: 5px" title="Redux" alt="Redux">&nbsp;
-        <img src="./images/node_js.png" style="width: 40px; margin-right: 5px" title="Node.js" alt="Node.js">&nbsp;
-        <img src="./images/npm.png" style="width: 40px; margin-right: 5px" title="npm" alt="npm">&nbsp;
-        <img src="./images/git.png" style="width: 40px; margin-right: 5px" title="Git" alt="Git">&nbsp;
-        <img src="./images/webPack.png" style="width: 40px; margin-right: 5px" title="Webpack" alt="Webpack">&nbsp;
-        <img src="./images/restAPI.png" style="width: 40px; margin-right: 5px" title="REST API" alt="REST API">&nbsp;
-        <img src="./images/cypress.png" style="width: 40px; margin-right: 5px" title="Cypress" alt="Cypress">&nbsp;
-        <img src="./images/jest.png" style="width: 40px; margin-right: 5px" title="Jest" alt="Jest">&nbsp;
-        <img src="./images/sass.png" style="width: 40px; margin-right: 5px" title="Sass" alt="Sass">&nbsp;
-        <img src="./images/figma.png" style="width: 40px; margin-right: 5px" title="Figma" alt="Figma">&nbsp;
-        <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
+        <img src="./images/html5.png" style="width: 30px; margin-right: 5px" title="HTML5" alt="HTML5">&nbsp;
+        <img src="./images/css.png" style="width: 30px; margin-right: 5px" title="CSS" alt="CSS">&nbsp;
+        <img src="./images/js.png" style="width: 30px; margin-right: 5px" title="JavaScript" alt="JavaScript">&nbsp;
+        <img src="./images/typeScript.png" style="width: 30px; margin-right: 5px" title="TypeScript" alt="TypeScript">&nbsp;
+        <img src="./images/react.png" style="width: 30px; margin-right: 5px" title="React" alt="React">&nbsp;
+        <img src="./images/redux.png" style="width: 30px; margin-right: 5px" title="Redux" alt="Redux">&nbsp;
+        <img src="./images/node_js.png" style="width: 30px; margin-right: 5px" title="Node.js" alt="Node.js">&nbsp;
+        <img src="./images/npm.png" style="width: 30px; margin-right: 5px" title="npm" alt="npm">&nbsp;
+        <img src="./images/git.png" style="width: 30px; margin-right: 5px" title="Git" alt="Git">&nbsp;
+        <img src="./images/webPack.png" style="width: 30px; margin-right: 5px" title="Webpack" alt="Webpack">&nbsp;
+        <img src="./images/restAPI.png" style="width: 30px; margin-right: 5px" title="REST API" alt="REST API">&nbsp;
+        <img src="./images/cypress.png" style="width: 30px; margin-right: 5px" title="Cypress" alt="Cypress">&nbsp;
+        <img src="./images/jest.png" style="width: 30px; margin-right: 5px" title="Jest" alt="Jest">&nbsp;
+        <img src="./images/sass.png" style="width: 30px; margin-right: 5px" title="Sass" alt="Sass">&nbsp;
+        <img src="./images/figma.png" style="width: 30px; margin-right: 5px" title="Figma" alt="Figma">&nbsp;
+        <img src="./images/notion.png" style="width: 30px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
 <table align="center">
