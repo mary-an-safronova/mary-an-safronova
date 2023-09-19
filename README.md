@@ -52,6 +52,6 @@
 <p style="margin: 20px 0; font-size: 20px; font-weight: 600; color: #24d7ff">GitHub Profile Trophy</p>
 <p align="center" style="margin: 20px 0; font-siz: 20px; width: 100%">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&theme=algolia&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&theme=algolia&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&column=-1)](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&column=-1)
 
 </p>
