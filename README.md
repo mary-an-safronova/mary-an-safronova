@@ -55,9 +55,9 @@
         <img src="./images/notion.png" style="width: 30px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
-<table align="center">
+<table align="center" style="border-spacing: 10px; border-collapse: inherit">
     <tr style="background-color: transparent">
-        <td>
+        <td style="border-radius: 7px">
             <!-- GitHub Profile Trophy -->
             <p align="center" style="margin: 0; paddig: 0">
                 <picture>
@@ -73,7 +73,7 @@
                 </picture>
             </p>
         </td>
-        <td>
+        <td style="border-radius: 7px">
             <!-- GitHub Streak Stats -->
             <p align="center" style="margin: 0; paddig: 0">
                 <picture>
@@ -91,9 +91,9 @@
         </td>
     </tr>
 </table>
-<table align="center">
+<table align="center" style="border-spacing: 10px; border-collapse: inherit">
     <tr style="background-color: rgb(13, 17, 23)">
-        <td style="padding: 0">
+        <td style="padding: 0; border-radius: 7px">
             <!-- GitHub Stats -->
             <p align="center" style="margin: 0; paddig: 0">
                 <picture>
@@ -109,7 +109,7 @@
                 </picture>
             </p>
         </td>
-        <td style="padding: 0">
+        <td style="padding: 0; border-radius: 7px">
             <!-- Most Used Languages -->
             <p align="center"  style="margin: 0; paddig: 0">
                 <picture>
