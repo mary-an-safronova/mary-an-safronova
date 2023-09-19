@@ -49,7 +49,7 @@
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
-<table align="center" cellspacing="0" cellpadding="0" border="0">
+<table align="center">
     <tr style="background-color: transparent">
         <td>
             <!-- GitHub Profile Trophy -->
@@ -69,7 +69,7 @@
         </td>
         <td>
             <!-- GitHub Streak Stats -->
-            <p align="center"  style="margin: 0; paddig: 0">
+            <p align="center" style="margin: 0; paddig: 0">
                 <picture>
                     <source
                         srcset="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true"
@@ -84,6 +84,8 @@
             </p>
         </td>
     </tr>
+</table>
+<table align="center">
     <tr style="background-color: rgb(13, 17, 23)">
         <td style="padding: 0">
             <!-- GitHub Stats -->
