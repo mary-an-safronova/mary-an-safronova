@@ -30,7 +30,6 @@
         </a>
     </p>
     <!-- Стек -->
-    <!-- <div style="display: flex; justify-content: center"> -->
     <p align="center" style="margin: 20px">
         <img src="./images/html5.png" style="width: 40px; margin-right: 5px" title="HTML5" alt="HTML5">&nbsp;
         <img src="./images/css.png" style="width: 40px; margin-right: 5px" title="CSS" alt="CSS">&nbsp;
@@ -49,5 +48,6 @@
         <img src="./images/figma.png" style="width: 40px; margin-right: 5px" title="Figma" alt="Figma">&nbsp;
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
-    <!-- </div> -->
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova)](https://github.com/mary-an-safronova/github-profile-trophy)
