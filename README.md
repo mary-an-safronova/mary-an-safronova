@@ -85,7 +85,7 @@
         </td>
     </tr>
     <tr>
-        <td style="background-color: black">
+        <td>
             <!-- GitHub Stats -->
             <p align="center">
                 <picture>
@@ -101,7 +101,7 @@
                 </picture>
             </p>
         </td>
-        <td  style="background-color: black">
+        <td>
             <!-- Most Used Languages -->
             <p align="center">
                 <picture>
