@@ -84,7 +84,7 @@
             </p>
         </td>
     </tr>
-    <tr style="background-color: transparent">
+    <tr style="background-color: transparent !important">
         <td style="padding: 0">
             <!-- GitHub Stats -->
             <p align="center" style="margin: 0; paddig: 0">
