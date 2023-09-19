@@ -1,19 +1,19 @@
-<div>
+<div style="margin: auto; width: 80%">
     <!-- Заголовок -->
-    <div style="display: flex; justify-content: center">
+    <p align="center" style="margin: 0"
         <a href="https://git.io/typing-svg">
             <img
-                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24E8F7&width=540&lines=Hi+there+👋,+my+name+is+Mariia" alt="Typing SVG"
+                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24E8F7&width=540&lines=Hi+there+👋,+my+name+is+Mariia" alt="Hi there, my name is Mariia"
             />
         </a>
-    </div>
-    <div style="display: flex; justify-content: center">
+    </p>
+    <p align="center" style="margin: 0"
         <a href="https://git.io/typing-svg">
             <img
-                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24E8F7&width=435&lines=and+I'm+a+Web+developer" alt="Typing SVG" 
+                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24E8F7&width=435&lines=and+I'm+a+Web+developer" alt="and I'm a Web developer" 
             />
         </a>
-    </div>
+    </p>
     <!-- Контакты -->
     <div style="display: flex; align-items: center; justify-content: center; margin: 20px 0 30px 0">
         <a href="https://t.me/Mary_Safronova" target="blank" 
@@ -31,21 +31,21 @@
     </div>
     <!-- Стек -->
     <div style="display: flex; justify-content: center">
-        <img src="./images/html5.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/css.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/js.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/typeScript.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/react.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/redux.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/node_js.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/npm.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/git.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/webPack.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/restAPI.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/cypress.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/jest.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/sass.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/figma.png" style="width: 40px; margin-right: 5px">
-        <img src="./images/notion.png" style="width: 40px; margin-right: 5px">
+        <img src="./images/html5.png" style="width: 40px; margin-right: 5px" title="HTML5" alt="HTML5">
+        <img src="./images/css.png" style="width: 40px; margin-right: 5px" title="CSS" alt="CSS">
+        <img src="./images/js.png" style="width: 40px; margin-right: 5px" title="JavaScript" alt="JavaScript">
+        <img src="./images/typeScript.png" style="width: 40px; margin-right: 5px" title="TypeScript" alt="TypeScript">
+        <img src="./images/react.png" style="width: 40px; margin-right: 5px" title="React" alt="React">
+        <img src="./images/redux.png" style="width: 40px; margin-right: 5px" title="Redux" alt="Redux">
+        <img src="./images/node_js.png" style="width: 40px; margin-right: 5px" title="Node.js" alt="Node.js">
+        <img src="./images/npm.png" style="width: 40px; margin-right: 5px" title="npm" alt="npm">
+        <img src="./images/git.png" style="width: 40px; margin-right: 5px" title="Git" alt="Git">
+        <img src="./images/webPack.png" style="width: 40px; margin-right: 5px" title="Webpack" alt="Webpack">
+        <img src="./images/restAPI.png" style="width: 40px; margin-right: 5px" title="REST API" alt="REST API">
+        <img src="./images/cypress.png" style="width: 40px; margin-right: 5px" title="Cypress" alt="Cypress">
+        <img src="./images/jest.png" style="width: 40px; margin-right: 5px" title="Jest" alt="Jest">
+        <img src="./images/sass.png" style="width: 40px; margin-right: 5px" title="Sass" alt="Sass">
+        <img src="./images/figma.png" style="width: 40px; margin-right: 5px" title="Figma" alt="Figma">
+        <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">
     </div>
 </div>
