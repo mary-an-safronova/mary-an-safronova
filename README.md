@@ -1,4 +1,4 @@
-<div style="margin: auto; width: 80%">
+<div style="margin: auto; width: 100%">
     <!-- Заголовок -->
     <p align="center" style="margin: 0">
         <a href="https://git.io/typing-svg">
@@ -49,5 +49,11 @@
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
+<p style="margin: 20px 0; font-size: 20px; font-weight: 600">GitHub Profile Trophy</p>
+<p align="center" style="margin: 20px 0; font-siz: 20px; width: 100%">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova)](https://github.com/mary-an-safronova/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&theme=algolia)](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&theme=algolia)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&theme=onedark&row=2&column=3)](https://github.com/mary-an-safronova/github-profile-trophy&row=2&column=3) -->
+
+</p>
