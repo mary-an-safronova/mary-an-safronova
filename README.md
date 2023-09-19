@@ -49,7 +49,7 @@
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
-<p style="margin: 20px 0; font-size: 20px; font-weight: 600; color: #24E8F7FF">GitHub Profile Trophy</p>
+<p style="margin: 20px 0; font-size: 20px; font-weight: 600; color: #24d7ff">GitHub Profile Trophy</p>
 <p align="center" style="margin: 20px 0; font-siz: 20px; width: 100%">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&theme=algolia&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=mary-an-safronova&theme=algolia&row=2&column=3)
