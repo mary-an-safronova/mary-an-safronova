@@ -127,3 +127,5 @@
         </td>
     </tr>
 </table>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mary-an-safronova&theme=react-dark&bg_color=transparent&color=24d7ff&title_color=24d7ff&line=24d7ff&point=24d7ff&area_color=24d7ff)](https://github.com/mary-an-safronova/github-readme-activity-graph)
