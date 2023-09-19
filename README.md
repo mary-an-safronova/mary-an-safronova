@@ -49,9 +49,9 @@
         <img src="./images/notion.png" style="width: 40px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
     </p>
 </div>
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
     <tr>
-        <td>
+        <td style="padding: 0; margin:0; border: none">
             <!-- GitHub Profile Trophy -->
             <p align="center"  style="margin: 0; paddig: 0">
                 <picture>
@@ -67,53 +67,53 @@
                 </picture>
             </p>
         </td>
-        <td>
+        <td style="padding: 0; margin:0; border: none">
             <!-- GitHub Streak Stats -->
             <p align="center"  style="margin: 0; paddig: 0">
                 <picture>
                     <source
-                        srcset="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true"
+                        srcset="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=false"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
-                        srcset="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true"
+                        srcset="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=false"
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     />
-                    <img src="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true" />
+                    <img src="http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=false" />
                 </picture>
             </p>
         </td>
     </tr>
     <tr>
-    <td style="background-color: black">
-            <!-- Most Used Languages -->
-            <p align="center"  style="margin: 0; paddig: 0">
-                <picture>
-                    <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=true"
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=true"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    />
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark&hide_border=true" />
-                </picture>
-            </p>
-        </td>
-        <td style="background-color: black">
+        <td style="padding: 0; margin:0; border: none">
             <!-- GitHub Stats -->
             <p align="center" style="margin: 0; paddig: 0">
                 <picture>
                     <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=mary-an-safronova&show_icons=true&theme=github_dark&hide_border=true"
+                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=mary-an-safronova&show_icons=true&theme=github_dark&hide_border=false"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=mary-an-safronova&show_icons=true&theme=github_dark&hide_border=true"
+                        srcset="https://github-readme-stats-skyz.vercel.app/api?username=mary-an-safronova&show_icons=true&theme=github_dark&hide_border=false"
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     />
-                    <img src="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true&hide_border=true" />
+                    <img src="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true&hide_border=false" />
+                </picture>
+            </p>
+        </td>
+        <td style="padding: 0; margin:0; border: none">
+            <!-- Most Used Languages -->
+            <p align="center"  style="margin: 0; paddig: 0">
+                <picture>
+                    <source
+                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=false"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=false"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark&hide_border=false" />
                 </picture>
             </p>
         </td>
