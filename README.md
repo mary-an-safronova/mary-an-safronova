@@ -63,7 +63,7 @@
             <p style="margin: 0; font-size: 20px; font-weight: 600; color: #24d7ff">🔥 GitHub Streak Stats</p>
 <p align="center" style="margin: 20px">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mary-an-safronova&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </p>
         </td>
