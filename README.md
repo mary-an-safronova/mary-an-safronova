@@ -50,10 +50,10 @@
     </p>
 </div>
 <table align="center" cellspacing="0" cellpadding="0" border="0">
-    <tr>
+    <tr style="background-color: transparent">
         <td>
             <!-- GitHub Profile Trophy -->
-            <p align="center"  style="margin: 0; paddig: 0">
+            <p align="center" style="margin: 0; paddig: 0">
                 <picture>
                     <source
                         srcset="https://github-profile-trophy.vercel.app/?username=mary-an-safronova&no-frame=true&no-bg=true&theme=algolia&row=2&column=3"
@@ -84,7 +84,7 @@
             </p>
         </td>
     </tr>
-    <tr>
+    <tr style="background-color: transparent">
         <td style="padding: 0">
             <!-- GitHub Stats -->
             <p align="center" style="margin: 0; paddig: 0">
