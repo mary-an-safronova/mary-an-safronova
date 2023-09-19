@@ -31,9 +31,8 @@
     </p>
     <!--  -->
     <p align="center" style="margin: 20px">
-        <a href="https://www.codewars.com/users/mary-an-safronova" target="blank" 
-            style="color: white; margin: 0">
-                <img src="https://www.codewars.com/users/mary-an-safronova/badges/small" style="width: 77px">
+        <a href="https://www.codewars.com/users/mary-an-safronova" target="blank">
+            <img src="https://www.codewars.com/users/mary-an-safronova/badges/small">
         </a>
     </p>
     <!-- Стек -->
