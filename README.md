@@ -85,6 +85,22 @@
         </td>
     </tr>
     <tr>
+    <td style="background-color: black">
+            <!-- Most Used Languages -->
+            <p align="center"  style="margin: 0; paddig: 0">
+                <picture>
+                    <source
+                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=true"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=true"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark&hide_border=true" />
+                </picture>
+            </p>
+        </td>
         <td style="background-color: black">
             <!-- GitHub Stats -->
             <p align="center" style="margin: 0; paddig: 0">
@@ -98,22 +114,6 @@
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     />
                     <img src="https://github-readme-stats.vercel.app/api?username=mary-an-safronova&show_icons=true&hide_border=true" />
-                </picture>
-            </p>
-        </td>
-        <td style="background-color: black">
-            <!-- Most Used Languages -->
-            <p align="center"  style="margin: 0; paddig: 0">
-                <picture>
-                    <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=true"
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <source
-                        srcset="https://github-readme-stats-skyz.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=github_dark&hide_border=true"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    />
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-an-safronova&layout=compact&theme=dark&hide_border=true" />
                 </picture>
             </p>
         </td>
