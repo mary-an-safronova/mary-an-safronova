@@ -14,6 +14,12 @@
             />
         </a>
     </p>
+    <!-- Портфолио -->
+    <p align="center" style="margin: 20px">
+        <a href="https://mary-an-safronova.github.io/portfolio/" target="blank" style="color: white; margin: 0">
+            <img src="https://img.shields.io/badge/Mariia Safronova's portfolio-24E8F7?style=for-the-badge">
+        </a>
+    </p>
     <!-- Контакты -->
     <p align="center" style="margin: 20px">
         <a href="https://t.me/Mary_Safronova" target="blank" 
