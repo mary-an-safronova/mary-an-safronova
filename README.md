@@ -3,21 +3,21 @@
     <p align="center" style="margin: 0">
         <a href="https://git.io/typing-svg">
             <img
-                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24E8F7&width=560&lines=Hey+there+👋,+my+name+is+Mariia" alt="Hey there, my name is Mariia"
+                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2f81f7&width=560&lines=Hey+there+👋,+my+name+is+Mariia" alt="Hey there, my name is Mariia"
             />
         </a>
     </p>
     <p align="center" style="margin: 0">
         <a href="https://git.io/typing-svg">
             <img
-                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24E8F7&width=435&lines=and+I'm+a+Web+developer" alt="and I'm a Web developer" 
+                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2f81f7&width=435&lines=and+I'm+a+Web+developer" alt="and I'm a Web developer" 
             />
         </a>
     </p>
     <!-- Портфолио -->
     <p align="center" style="margin: 20px">
-        <a href="https://mary-an-safronova.github.io/portfolio/" target="blank" style="color: white; margin: 0">
-            <img src="https://img.shields.io/badge/Mariia Safronova's portfolio-24E8F7?style=for-the-badge">
+        <a href="https://mary-an-safronova.github.io/portfolio/" target="blank" style="margin: 0">
+            <img src="https://img.shields.io/badge/Mariia Safronova's portfolio-2f81f7?style=for-the-badge">
         </a>
     </p>
     <!-- Контакты -->
@@ -134,4 +134,4 @@
     </tr>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mary-an-safronova&theme=react-dark&bg_color=transparent&color=24d7ff&title_color=24d7ff&line=24d7ff&point=24d7ff&area_color=24d7ff&hide_border=true)](https://github.com/mary-an-safronova/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mary-an-safronova&theme=react-dark&bg_color=transparent&color=2f81f7&title_color=2f81f7&line=2f81f7&point=24d7ff&area_color=24d7ff&hide_border=true)](https://github.com/mary-an-safronova/github-readme-activity-graph)
