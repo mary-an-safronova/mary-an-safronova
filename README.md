@@ -49,11 +49,14 @@
         <img src="./images/typeScript.png" style="width: 30px; margin-right: 5px" title="TypeScript" alt="TypeScript">&nbsp;
         <img src="./images/react.png" style="width: 30px; margin-right: 5px" title="React" alt="React">&nbsp;
         <img src="./images/redux.png" style="width: 30px; margin-right: 5px" title="Redux" alt="Redux">&nbsp;
-        <img src="./images/node_js.png" style="width: 30px; margin-right: 5px" title="Node.js" alt="Node.js">&nbsp;
+        <img src="./images/NODE_JS.png" style="width: 30px; margin-right: 5px" title="Node.js" alt="Node.js">&nbsp;
+        <img src="./images/EXPRESS.png" style="width: 30px; margin-right: 5px" title="Express" alt="Express">&nbsp;
+        <img src="./images/MongoDB.png" style="width: 30px; margin-right: 5px" title="MongoDB" alt="MongoDB">&nbsp;
+        <img src="./images/Mongoose.png" style="width: 30px; margin-right: 5px" title="Mongoose" alt="Mongoose">&nbsp;
         <img src="./images/npm.png" style="width: 30px; margin-right: 5px" title="npm" alt="npm">&nbsp;
         <img src="./images/git.png" style="width: 30px; margin-right: 5px" title="Git" alt="Git">&nbsp;
         <img src="./images/webPack.png" style="width: 30px; margin-right: 5px" title="Webpack" alt="Webpack">&nbsp;
-        <img src="./images/restAPI.png" style="width: 30px; margin-right: 5px" title="REST API" alt="REST API">&nbsp;
+        <img src="./images/API.png" style="width: 30px; margin-right: 5px" title="REST API" alt="REST API">&nbsp;
         <img src="./images/cypress.png" style="width: 30px; margin-right: 5px" title="Cypress" alt="Cypress">&nbsp;
         <img src="./images/jest.png" style="width: 30px; margin-right: 5px" title="Jest" alt="Jest">&nbsp;
         <img src="./images/sass.png" style="width: 30px; margin-right: 5px" title="Sass" alt="Sass">&nbsp;
