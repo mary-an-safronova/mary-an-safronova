@@ -53,6 +53,10 @@
         <img src="./images/EXPRESS.png" style="width: 30px; margin-right: 5px" title="Express" alt="Express">&nbsp;
         <img src="./images/MongoDB.png" style="width: 30px; margin-right: 5px" title="MongoDB" alt="MongoDB">&nbsp;
         <img src="./images/Mongoose.png" style="width: 30px; margin-right: 5px" title="Mongoose" alt="Mongoose">&nbsp;
+        <img src="./images/SQL.png" style="width: 30px; margin-right: 5px" title="SQL" alt="SQL">&nbsp;
+        <img src="./images/PostgreSQL.png" style="width: 30px; margin-right: 5px" title="PostgreSQL" alt="PostgreSQL">&nbsp;
+        <img src="./images/NestJS.png" style="width: 30px; margin-right: 5px" title="NestJS" alt="NestJS">&nbsp;
+        <img src="./images/TypeORM.png" style="width: 30px; margin-right: 5px" title="TypeORM" alt="TypeORM">&nbsp;
         <img src="./images/npm.png" style="width: 30px; margin-right: 5px" title="npm" alt="npm">&nbsp;
         <img src="./images/git.png" style="width: 30px; margin-right: 5px" title="Git" alt="Git">&nbsp;
         <img src="./images/webPack.png" style="width: 30px; margin-right: 5px" title="Webpack" alt="Webpack">&nbsp;
