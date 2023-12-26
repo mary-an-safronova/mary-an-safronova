@@ -66,6 +66,11 @@
         <img src="./images/sass.png" style="width: 30px; margin-right: 5px" title="Sass" alt="Sass">&nbsp;
         <img src="./images/figma.png" style="width: 30px; margin-right: 5px" title="Figma" alt="Figma">&nbsp;
         <img src="./images/notion.png" style="width: 30px; margin-right: 5px" title="Notion" alt="Notion">&nbsp;
+        <img src="./images/nginx.png" style="width: 30px; margin-right: 5px" title="nginx" alt="nginx">&nbsp;
+        <img src="./images/pm2.png" style="width: 30px; margin-right: 5px" title="pm2" alt="pm2">&nbsp;
+        <img src="./images/docker.png" style="width: 30px; margin-right: 5px" title="Docker" alt="Docker">&nbsp;
+        <img src="./images/docker-compose.png" style="width: 30px; margin-right: 5px" title="Docker Compose" alt="Docker Compose">&nbsp;
+        <img src="./images/certbot.png" style="width: 30px; margin-right: 5px" title="certbot" alt="certbot">&nbsp; 
     </p>
 </div>
 <table align="center" style="border-spacing: 10px; border-collapse: inherit">
